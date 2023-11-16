@@ -1,4 +1,6 @@
-# Ford GoBike System Data Exploration
+# 🚴🏼 Ford GoBike System Data Exploration
+![GoBike](https://github.com/stevenhoang713/Ford-GoBike-System-Analysis/assets/145725846/dc04b66c-04cb-497b-b0f2-a30f78ea1cd7)
+
 
 ## Dataset Overview 
 The dataset contains 183,412 bike rides, each described by 16 features. The majority of variables in the dataset are numeric, while some variables such as start_time and end_time have incorrect data types and should be converted to datetime. Additionally, some variables such as start_station_id, start_station_name, end_station_id, end_station_name, member_birth_year, and member_gender have missing values. After cleaning up the dataset, the dataset contained 174,952 bike rides and 17 features for investigation.
