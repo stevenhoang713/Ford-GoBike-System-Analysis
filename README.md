@@ -18,3 +18,11 @@ The data exploration revealed interesting patterns and insights about the bike-s
 - Customer users take longer trips than subscribers, regardless of the day of the week.
 
 - The average duration of bike trips is between 8 and 15 minutes, but on weekends, the trips are longer than on weekdays.
+
+## Key Insights
+The duration of the trip is a crucial aspect and is influenced by the following variables:
+- Age: People in the age group of 20 to 60 tend to take the longest trips compared to other age groups.
+
+- User type: Customers took longer trips compared to subscribers across all days of the week and hours of the day.
+
+- Day of the week: Longer trips are taken on weekends compared to weekdays.
